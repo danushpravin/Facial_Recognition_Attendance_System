@@ -1,4 +1,4 @@
-#Face-Based Attendance System
+## Face-Based Attendance System
 
 A Python and OpenCV-based system that automatically marks attendance by recognizing faces in real time.  
 The system captures faces, trains a recognition model, and logs attendance into subject-wise CSV files.
